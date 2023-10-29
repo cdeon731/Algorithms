@@ -3,7 +3,7 @@ This code was by everybody - so there might be
 some errors.  Use this as an opportunity to debug!
 This code hasn't been modified after the live lecture. */
 
-var hi = "Hello Everyobe"
+var hi = "Hello Everyone"
 console.log("ML wrote this", hi)
 console.log(`ML is saying ${hi}`)
 
